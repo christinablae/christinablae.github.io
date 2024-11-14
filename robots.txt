@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://christinablae.github.io/christinablae_github_io_zp533_10.txt
+Sitemap: https://christinablae.github.io/christinablae_github_io_zp533_16.txt
+Sitemap: https://christinablae.github.io/christinablae_github_io_zp533_21.txt
+Sitemap: https://christinablae.github.io/christinablae_github_io_zp533_27.txt
+Sitemap: https://christinablae.github.io/christinablae_github_io_zp533_6.txt
